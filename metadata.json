@@ -1,0 +1,8 @@
+{
+  "name": "MicroBio Assistant",
+  "description": "A digital bench-side companion for microbiologists to track sample cultures, record plate readings, and receive AI-guided decision support for biochemical follow-up tests (Mini Gallerie, Spot Tests).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
